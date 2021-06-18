@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Akopti8
-- 👀 I’m interested in Mathmatical Computation
-- 🌱 I’m currently double majoring in CS and Math
-- 💞️ I’m looking to collaborate on Computational Mathematical projects
-- 📫 you can check out my website at antonkopti.com or email me at akopti@eagles.bridgewater.edu
-
-
+- 👋 Hi, I’m Antonio Michelangelo Kopti.
+- 👀 I’m interested in Mathmatical Computation, Software development, Machine Learning, Web development/Design.
+- 🌱 I’m currently double majoring in CS and Math at Bridgewater college.
+- 💞️ I’m looking to collaborate on Computational Mathematical projects and any other fascinating projects.
+- 📫 you can check out my website at www.antonkopti.com or email me at akopti@eagles.bridgewater.edu
+I am open for work.
